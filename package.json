@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/akdeiva/node-twitter#readme",
   "dependencies": {
+    "@google-cloud/datastore": "^1.0.2",
+    "query-string": "^4.3.4",
     "request": "^2.81.0",
     "twitter": "^1.7.1"
   }
